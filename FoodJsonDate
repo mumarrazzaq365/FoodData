@@ -1,0 +1,170 @@
+{
+  "foods": [
+    {
+      "name": "Spaghetti Bolognese",
+      "category": "Italian",
+      "calories": 450,
+      "ingredients": ["Pasta", "Beef Sauce", "Tomato", "Parmesan Cheese"],
+      "price": 14.99
+    },
+    {
+      "name": "Sushi",
+      "category": "Japanese",
+      "calories": 320,
+      "ingredients": ["Rice", "Fish (e.g., Salmon, Tuna)", "Seaweed", "Soy Sauce"],
+      "price": 19.99
+    },
+    {
+      "name": "Hamburger",
+      "category": "American",
+      "calories": 550,
+      "ingredients": ["Bun", "Beef Patty", "Lettuce", "Tomato", "Pickles"],
+      "price": 8.99
+    },
+    {
+      "name": "Chicken Tikka Masala",
+      "category": "Indian",
+      "calories": 420,
+      "ingredients": ["Chicken", "Tomato Sauce", "Yogurt", "Rice"],
+      "price": 15.49
+    },
+    {
+      "name": "Taco",
+      "category": "Mexican",
+      "calories": 340,
+      "ingredients": ["Tortilla", "Ground Beef", "Lettuce", "Tomato", "Salsa"],
+      "price": 7.99
+    },
+    {
+      "name": "Caesar Salad",
+      "category": "American",
+      "calories": 220,
+      "ingredients": ["Romaine Lettuce", "Croutons", "Caesar Dressing", "Parmesan Cheese"],
+      "price": 10.49
+    },
+    {
+      "name": "Pad Thai",
+      "category": "Thai",
+      "calories": 400,
+      "ingredients": ["Rice Noodles", "Shrimp", "Tofu", "Bean Sprouts", "Peanuts"],
+      "price": 13.99
+    },
+    {
+      "name": "BBQ Ribs",
+      "category": "American",
+      "calories": 680,
+      "ingredients": ["Pork Ribs", "BBQ Sauce", "Coleslaw", "Cornbread"],
+      "price": 18.99
+    },
+    {
+      "name": "Margherita Pizza",
+      "category": "Italian",
+      "calories": 320,
+      "ingredients": ["Dough", "Tomato Sauce", "Mozzarella", "Basil"],
+      "price": 11.99
+    },
+    {
+      "name": "Shrimp Scampi",
+      "category": "Italian",
+      "calories": 350,
+      "ingredients": ["Shrimp", "Garlic", "Butter", "Linguine"],
+      "price": 16.99
+    },
+    {
+      "name": "Sushi Roll",
+      "category": "Japanese",
+      "calories": 280,
+      "ingredients": ["Rice", "Fish (e.g., Yellowtail, Avocado", "Cucumber", "Soy Sauce"],
+      "price": 12.49
+    },
+    {
+      "name": "Pho",
+      "category": "Vietnamese",
+      "calories": 380,
+      "ingredients": ["Rice Noodles", "Beef Broth", "Beef Slices", "Lime", "Bean Sprouts"],
+      "price": 9.99
+    },
+    {
+      "name": "Chicken Alfredo",
+      "category": "Italian",
+      "calories": 550,
+      "ingredients": ["Fettuccine", "Chicken", "Alfredo Sauce", "Parmesan Cheese"],
+      "price": 15.99
+    },
+    {
+      "name": "Beef Stir-Fry",
+      "category": "Chinese",
+      "calories": 320,
+      "ingredients": ["Beef", "Mixed Vegetables", "Soy Sauce", "Rice"],
+      "price": 12.99
+    },
+    {
+      "name": "Gyudon",
+      "category": "Japanese",
+      "calories": 420,
+      "ingredients": ["Thinly Sliced Beef", "Onions", "Soy Sauce", "Rice"],
+      "price": 11.49
+    },
+    {
+      "name": "Margarita Cocktail",
+      "category": "Beverage",
+      "calories": 220,
+      "ingredients": ["Tequila", "Lime Juice", "Triple Sec", "Salt Rim"],
+      "price": 8.99
+    },
+    {
+      "name": "Chicken Shawarma",
+      "category": "Middle Eastern",
+      "calories": 380,
+      "ingredients": ["Grilled Chicken", "Pita Bread", "Tahini Sauce", "Tomatoes"],
+      "price": 10.99
+    },
+    {
+      "name": "Tiramisu",
+      "category": "Italian",
+      "calories": 320,
+      "ingredients": ["Ladyfingers", "Mascarpone", "Espresso", "Cocoa"],
+      "price": 7.99
+    },
+    {
+      "name": "Biryani",
+      "category": "Indian",
+      "calories": 520,
+      "ingredients": ["Basmati Rice", "Chicken", "Spices", "Yogurt"],
+      "price": 16.49
+    },
+    {
+      "name": "Sushi Sashimi",
+      "category": "Japanese",
+      "calories": 250,
+      "ingredients": ["Assorted Fish (e.g., Tuna, Salmon)", "Wasabi", "Soy Sauce"],
+      "price": 22.99
+    },
+    {
+      "name": "Mushroom Risotto",
+      "category": "Italian",
+      "calories": 380,
+      "ingredients": ["Arborio Rice", "Mushrooms", "White Wine", "Parmesan Cheese"],
+      "price": 13.49
+    },
+    {
+      "name": "Falafel Wrap",
+      "category": "Middle Eastern",
+      "calories": 320,
+      "ingredients": ["Falafel", "Pita Bread", "Tahini Sauce", "Lettuce", "Tomatoes"],
+      "price": 9.99
+    },
+    {
+      "name": "Churros",
+      "category": "Spanish",
+      "calories": 250,
+      "ingredients": ["Choux Pastry", "Cinnamon Sugar", "Chocolate Sauce"],
+      "price": 5.99
+    },
+    {
+      "name": "Beef and Broccoli",
+      "category": "Chinese",
+      "calories": 340,
+      "ingredients": ["Beef", "Broccoli", "Soy Sauce", "Rice"],
+      "price": 11.99
+    },
